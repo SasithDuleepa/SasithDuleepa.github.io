@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.906d460a.css",
+    "main.js": "/static/js/main.94068322.js",
+    "static/js/453.41811d64.chunk.js": "/static/js/453.41811d64.chunk.js",
+    "static/media/my3.png": "/static/media/my3.ae80abf4c579973252e1.png",
+    "static/media/my1.png": "/static/media/my1.e0857d79293ff6ea5801.png",
+    "static/media/iot.png": "/static/media/iot.73d3039e4d360fc1ea0a.png",
+    "static/media/my2.png": "/static/media/my2.b3339c0c7857c1b719a5.png",
+    "static/media/inventory.png": "/static/media/inventory.cc4972b8192a30f4fd06.png",
+    "static/media/travel.png": "/static/media/travel.3acc75af769c856909de.png",
+    "static/media/pos.png": "/static/media/pos.5349cc7aabfdc3fdc81a.png",
+    "static/media/ecommerce.jpg": "/static/media/ecommerce.ff4a894116707641b22a.jpg",
+    "static/media/sasith.pdf": "/static/media/sasith.ecb08877085612093d26.pdf",
+    "static/media/mysql1.png": "/static/media/mysql1.64a110cd3fc70d0ad428.png",
+    "static/media/react-js.png": "/static/media/react-js.57c4a49f6803d191097e.png",
+    "static/media/map.png": "/static/media/map.82056140ce3605dfbf34.png",
+    "static/media/dns.png": "/static/media/dns.2d10c6058485e160f97b.png",
+    "static/media/iot-solution.png": "/static/media/iot-solution.81f708d200ef6e57e75b.png",
+    "static/media/mongodb .png": "/static/media/mongodb .947c6d635037f915d606.png",
+    "static/media/backend.png": "/static/media/backend.2b9d0d78e43f811d8520.png",
+    "static/media/github.png": "/static/media/github.05f6c17b8cd04c28456f.png",
+    "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/expressjs.png": "/static/media/expressjs.551b076d3a202df33a0c.png",
+    "static/media/gmail.png": "/static/media/gmail.a2f2146f929409405da0.png",
+    "static/media/html.png": "/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/arduino.png": "/static/media/arduino.2dfc3a04b215deff9b1c.png",
+    "static/media/python.png": "/static/media/python.9c47735ea0c4a2d20349.png",
+    "index.html": "/index.html",
+    "static/media/legal_13794759.svg": "/static/media/legal_13794759.7ffee1808c81e1d93f91e24f31476404.svg",
+    "main.906d460a.css.map": "/static/css/main.906d460a.css.map",
+    "main.94068322.js.map": "/static/js/main.94068322.js.map",
+    "453.41811d64.chunk.js.map": "/static/js/453.41811d64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.906d460a.css",
+    "static/js/main.94068322.js"
+  ]
+}
